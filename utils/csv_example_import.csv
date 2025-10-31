@@ -1,0 +1,3 @@
+device_model,serial_number,owner_name,date_enrolled,next_maintenance,location,category,color_tag,workbook,notes
+Dell XPS 13,SN12345,John Doe,2025-01-10,2026-01-10,Procurement Office,Laptop,#ffeeaa,Main,Initial enrollment
+MacBook Air,SN23456,Jane Smith,2024-08-01,2025-08-01,Music Room,Laptop,#aaffcc,Main,Assigned to Music Dept
